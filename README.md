@@ -1,4 +1,4 @@
-# DRFormattingVBA
+# Xero Formatting VBA
 
 Microsoft Office Excel Macro, For Xero Accounting Software Migration Fomatting,
 
