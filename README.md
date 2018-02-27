@@ -10,4 +10,5 @@ Formatting Header's: Crtl + Shift + P
   *window will Pop-Up (select options)
 
 Filter shortcut mapped to Ctrl + L
+
 Hide Column shortcut mapped to PgDn  
