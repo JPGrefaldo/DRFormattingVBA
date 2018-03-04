@@ -1,5 +1,8 @@
 # Xero Formatting VBA
 
+I think It's all it is in this Project just found out VBA doesn't support OOP's syntactic sugar,
+and this project is just gonna be all rampard with rowdy code's, so good luck on editing this stuff.
+
 Microsoft Office Excel Macro, For Xero Accounting Software Migration Fomatting,
 
 This is macro can make formatting with ease, design for Xero Migration. It contains a shortcut to create default Header's for CSV's and
