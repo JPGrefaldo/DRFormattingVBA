@@ -1,6 +1,6 @@
 # Xero Formatting VBA
 
-I think It's all it is in this Project just found out VBA doesn't support OOP's syntactic sugar,
+I think It's all it is in this Project just found out VBA doesn't support most of OOP's Inhertance, Polymorphism and syntactic sugars,
 and this project is just gonna be all rampard with rowdy code's, so good luck on editing this stuff.
 
 Microsoft Office Excel Macro, For Xero Accounting Software Migration Fomatting,
